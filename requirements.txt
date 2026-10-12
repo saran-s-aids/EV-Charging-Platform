@@ -1,5 +1,0 @@
-Flask
-psycopg2-binary
-redis
-pika
-gunicorn
